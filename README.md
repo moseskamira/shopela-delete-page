@@ -20,7 +20,7 @@ A simple web page for **Shopela** users to request deletion of their account and
 
 This project uses only static HTML/CSS and can be hosted via GitHub Pages.
 
-1. Clone the repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/moseskamira/shopela-delete-page.git
